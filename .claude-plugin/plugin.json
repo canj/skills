@@ -1,0 +1,14 @@
+{
+  "name": "canj-skills",
+  "description": "Agent skills by Matt Cangialosi",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matt Cangialosi",
+    "url": "https://github.com/canj"
+  },
+  "homepage": "https://github.com/canj/skills",
+  "license": "MIT",
+  "skills": [
+    "./skills/writing/writing-style-builder"
+  ]
+}
